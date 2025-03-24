@@ -29,7 +29,7 @@ Before running the tests, ensure you have the following installed:
 
 ## **Setup**
 1. Clone the repository:
-   git clone https://github.com/your-repo/category-api-test.git
+   git clone [https://github.com/Nilakshi-R/category-api-test.git](https://github.com/Nilakshi-R/category-api-test.git)
 2. cd category-api-test
 
 ## **Configuration**
